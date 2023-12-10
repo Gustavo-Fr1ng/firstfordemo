@@ -8,6 +8,7 @@ int main()		{
     auto start = chrono::high_resolution_clock::now();
 
     cout << "Hello World !" << endl;
+    cout << "Hello World !" << endl;
 
     // Record the end time
     auto end = chrono::high_resolution_clock::now();
